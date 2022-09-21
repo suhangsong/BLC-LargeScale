@@ -1,6 +1,6 @@
 # BLC-LargeScale
 
-## news
+## News
 
 The algorithms are described in the following paper. This paper is currently under review and the code will be released after acceptance. 
 
@@ -8,7 +8,7 @@ The algorithms are described in the following paper. This paper is currently und
 
 ## Overview
 
-This paper introduces the use of heterogeneous multi-robot to complete line coverage of large scenes, and considers the workload balance between different robot teams and different robots within a team.
+This paper studies heterogeneous multi-robot performing line coverage in large urban scene, and considers the workload balance between different robot teams and different robots within a team.
 
 <p align="center">
 <img src="overview.png" width="95%"/>
